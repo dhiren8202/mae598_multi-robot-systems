@@ -1,0 +1,25 @@
+TY  - JOUR
+T1  - Nonlinear process monitoring using kernel principal component analysis
+AU  - Lee, Jong-Min
+AU  - Yoo, ChangKyoo
+AU  - Choi, Sang Wook
+AU  - Vanrolleghem, Peter A.
+AU  - Lee, In-Beum
+JO  - Chemical Engineering Science
+VL  - 59
+IS  - 1
+SP  - 223
+EP  - 234
+PY  - 2004
+DA  - 2004/01/01/
+SN  - 0009-2509
+DO  - https://doi.org/10.1016/j.ces.2003.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0009250903004652
+KW  - Kernel principal component analysis
+KW  - Nonlinear dynamics
+KW  - Fault detection
+KW  - Systems engineering
+KW  - Safety
+KW  - Process control
+AB  - In this paper, a new nonlinear process monitoring technique based on kernel principal component analysis (KPCA) is developed. KPCA has emerged in recent years as a promising method for tackling nonlinear systems. KPCA can efficiently compute principal components in high-dimensional feature spaces by means of integral operators and nonlinear kernel functions. The basic idea of KPCA is to first map the input space into a feature space via nonlinear mapping and then to compute the principal components in that feature space. In comparison to other nonlinear principal component analysis (PCA) techniques, KPCA requires only the solution of an eigenvalue problem and does not entail any nonlinear optimization. In addition, the number of principal components need not be specified prior to modeling. In this paper, a simple approach to calculating the squared prediction error (SPE) in the feature space is also suggested. Based on T2 and SPE charts in the feature space, KPCA was applied to fault detection in two example systems: a simple multivariate process and the simulation benchmark of the biological wastewater treatment process. The proposed approach effectively captured the nonlinear relationship in the process variables and showed superior process monitoring performance compared to linear PCA.
+ER  - 
